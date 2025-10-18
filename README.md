@@ -13,9 +13,14 @@ My work spans **cybersecurity**, **app development**, **AI**, and **blockchain**
 ## What I’m Currently Building
 
 - **Mental Health Companion App**
-      mood tracking, breathing exercises, journaling, and anonymous chat rooms.  
+        mood tracking,
+        breathing exercises,
+        journaling,
+        anonymous chat rooms.  
 - **Zen Browser Extension**
-      soft animated backgrounds with per-site toggles, blur intensity, and dark/light modes.  
+        soft animated backgrounds with per-site toggles,
+        blur intensity,
+        dark/light modes.  
 - **Stock Market Simulator Bot**
       uses a demand-supply model inspired by Uniswap with slippage mechanics.
 
