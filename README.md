@@ -12,9 +12,12 @@ My work spans **cybersecurity**, **app development**, **AI**, and **blockchain**
 
 ## What I’m Currently Building
 
-- **Mental Health Companion App** — mood tracking, breathing exercises, journaling, and anonymous chat rooms.  
-- **Zen Browser Extension** — soft animated backgrounds with per-site toggles, blur intensity, and dark/light modes.  
-- **Stock Market Simulator Bot** — uses a demand-supply model inspired by Uniswap with slippage mechanics.
+- **Mental Health Companion App**
+      mood tracking, breathing exercises, journaling, and anonymous chat rooms.  
+- **Zen Browser Extension**
+      soft animated backgrounds with per-site toggles, blur intensity, and dark/light modes.  
+- **Stock Market Simulator Bot**
+      uses a demand-supply model inspired by Uniswap with slippage mechanics.
 
 ---
 
@@ -26,7 +29,7 @@ My work spans **cybersecurity**, **app development**, **AI**, and **blockchain**
 - Storytelling — currently writing *The Blue Coat*, a novel exploring grief, forgiveness, and human connection.
 
 ---
-
+<div align="center">
 ## Tech Stack
 
 | Category              | Tools & Technologies                                                                           |
@@ -34,7 +37,7 @@ My work spans **cybersecurity**, **app development**, **AI**, and **blockchain**
 | **Languages**          | JavaScript, Python, C++, HTML/CSS, Java                                                         |
 | **Frameworks & Tools** | Three.js, Tailwind, WebAssembly, AWS CodeBuild, Git, VS Code                                    |
 | **Other Interests**    | DSA projects, system design, gesture-controlled interfaces, smooth UI/UX experiences            |
-
+</div>
 ---
 
 ## A Few Fun Facts
