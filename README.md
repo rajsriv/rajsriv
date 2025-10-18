@@ -10,29 +10,67 @@ My work spans **cybersecurity**, **app development**, **AI**, and **blockchain**
 
 ---
 
-## What I’m Currently Building
+## 🧠 Machine Learning & Data Science
 
-- **Mental Health Companion App**
-     →  mood tracking,
-        breathing exercises,
-        journaling,
-        anonymous chat rooms.  
-- **Zen Browser Extension**
-     →  soft animated backgrounds with per-site toggles,
-        blur intensity,
-        dark/light modes.  
-- **Stock Market Simulator Bot**
-     →  uses a demand-supply model inspired by Uniswap with slippage mechanics.
+![KNN](https://img.shields.io/badge/KNN-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PCA](https://img.shields.io/badge/PCA-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Elbow Method](https://img.shields.io/badge/Elbow%20Method-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Silhouette Score](https://img.shields.io/badge/Silhouette%20Score-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Calinski–Harabasz Index](https://img.shields.io/badge/Calinski–Harabasz%20Index-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GridSearchCV](https://img.shields.io/badge/GridSearchCV-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SMOTE](https://img.shields.io/badge/SMOTE-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SMOTENC](https://img.shields.io/badge/SMOTENC-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Heatmap](https://img.shields.io/badge/Heatmap-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft ML Server](https://img.shields.io/badge/Microsoft%20ML%20Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+## 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## 🧰 Frameworks, Libraries & Tools
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🏗️ Web Development
+
+![Frontend](https://img.shields.io/badge/Frontend-HTML%2C%20CSS%2C%20JS-orange?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Development-blueviolet?style=for-the-badge)
+
+## 🧮 STEM Knowledge
+
+![Mathematics](https://img.shields.io/badge/Mathematics-4B0082?style=for-the-badge)
+![Physics](https://img.shields.io/badge/Physics-8A2BE2?style=for-the-badge)
+![Chemistry](https://img.shields.io/badge/Chemistry-1E90FF?style=for-the-badge)
+
+## 🕹️ Sports & Activities
+
+![Volleyball](https://img.shields.io/badge/Volleyball-FF4500?style=for-the-badge)
+![Chess](https://img.shields.io/badge/Chess-000000?style=for-the-badge)
+![Physical Education](https://img.shields.io/badge/Physical%20Education-32CD32?style=for-the-badge)
+
+## ✍️ Creative & Communication
+
+![Illustration](https://img.shields.io/badge/Illustration-FF69B4?style=for-the-badge)
+![Magazine Layout Design](https://img.shields.io/badge/Magazine%20Layout%20Design-9932CC?style=for-the-badge)
+![Literature & Communication](https://img.shields.io/badge/Literature%20%26%20Communication-FFB6C1?style=for-the-badge)
+
 
 ---
 
-## Areas of Interest
-
-- Cybersecurity & Ethical Hacking  
-- Full-Stack App Development  
-- Mathematical Modeling & Algorithms  
-
----
 <div align="center">
 ## Tech Stack
 
@@ -56,6 +94,6 @@ My work spans **cybersecurity**, **app development**, **AI**, and **blockchain**
 ## 📬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-sriv2005/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-design-minimal.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rajsriv.github.io/Portfolio-design-minimal/))
 
 ⭐ *“Build what matters. Learn deeply. Leave something meaningful behind.”*
