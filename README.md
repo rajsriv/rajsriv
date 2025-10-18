@@ -31,7 +31,6 @@ My work spans **cybersecurity**, **app development**, **AI**, and **blockchain**
 - Cybersecurity & Ethical Hacking  
 - Full-Stack App Development  
 - Mathematical Modeling & Algorithms  
-- Storytelling — currently writing *The Blue Coat*, a novel exploring grief, forgiveness, and human connection.
 
 ---
 <div align="center">
@@ -56,6 +55,6 @@ My work spans **cybersecurity**, **app development**, **AI**, and **blockchain**
 ## 📬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-sriv2005/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-design-minimal.vercel.app/)
 
 ⭐ *“Build what matters. Learn deeply. Leave something meaningful behind.”*
