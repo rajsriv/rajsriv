@@ -67,19 +67,6 @@ Machine Learning Engineer Intern @ BHU | Head Project Manager & Founder, The Deb
 ![Magazine Layout Design](https://img.shields.io/badge/Magazine%20Layout%20Design-9932CC?style=for-the-badge)
 ![Literature & Communication](https://img.shields.io/badge/Literature%20%26%20Communication-FFB6C1?style=for-the-badge)
 
-
----
-
-<div align="center">
-## Tech Stack
-
-| Category              | Tools & Technologies                                                                           |
-|------------------------|------------------------------------------------------------------------------------------------|
-| **Languages**          | JavaScript, Python, C++, HTML/CSS, Java                                                         |
-| **Frameworks & Tools** | Three.js, Tailwind, WebAssembly, AWS CodeBuild, Git, VS Code                                    |
-| **Other Interests**    | DSA projects, system design, gesture-controlled interfaces, smooth UI/UX experiences            |
-</div>
-
 ---
 
 ## A Few Fun Facts
