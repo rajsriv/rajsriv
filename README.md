@@ -1,7 +1,8 @@
 <div align="center">
-## Hi there 👋
+Hi there 👋
 
 # Hi, I’m Raj Srivastava
+
 </div>
 
 I love building things that blend **creativity**, **technology**, and **real-world impact**.  
