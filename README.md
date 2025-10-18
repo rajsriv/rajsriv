@@ -42,6 +42,7 @@ My work spans **cybersecurity**, **app development**, **AI**, and **blockchain**
 | **Frameworks & Tools** | Three.js, Tailwind, WebAssembly, AWS CodeBuild, Git, VS Code                                    |
 | **Other Interests**    | DSA projects, system design, gesture-controlled interfaces, smooth UI/UX experiences            |
 </div>
+
 ---
 
 ## A Few Fun Facts
