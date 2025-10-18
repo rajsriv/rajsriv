@@ -5,8 +5,7 @@ Hi there 👋
 
 </div>
 
-I love building things that blend **creativity**, **technology**, and **real-world impact**.  
-My work spans **cybersecurity**, **app development**, **AI**, and **blockchain**, with a strong focus on long-term maintainability, thoughtful design, and originality.
+Machine Learning Engineer Intern @ BHU | Head Project Manager & Founder, The Debuggers Coding Club | CS Student @ I.Sc. BHU | Full-Stack Dev | Literature & Communication | Google Cloud & AWS Expert | CoLab Enthusiast
 
 ---
 
