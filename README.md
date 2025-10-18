@@ -80,6 +80,6 @@ Machine Learning Engineer Intern @ BHU | Head Project Manager & Founder, The Deb
 ## 📬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-sriv2005/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rajsriv.github.io/Portfolio-design-minimal/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rajsriv.github.io/Portfolio-design-minimal/)
 
 ⭐ *“Build what matters. Learn deeply. Leave something meaningful behind.”*
