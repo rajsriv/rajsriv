@@ -22,12 +22,10 @@ Machine Learning Engineer Intern @ BHU | Head Project Manager & Founder, The Deb
 ![Heatmap](https://img.shields.io/badge/Heatmap-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Microsoft ML Server](https://img.shields.io/badge/Microsoft%20ML%20Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
@@ -35,12 +33,11 @@ Machine Learning Engineer Intern @ BHU | Head Project Manager & Founder, The Deb
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![Frontend](https://img.shields.io/badge/Frontend-HTML%2C%20CSS%2C%20JS-orange?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/Backend-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Development-blueviolet?style=for-the-badge)
 
-## ✍️ Creative & Communication
+## Creative & Communication
 
 ![Illustration](https://img.shields.io/badge/Illustration-FF69B4?style=for-the-badge)
 ![Magazine Layout Design](https://img.shields.io/badge/Magazine%20Layout%20Design-9932CC?style=for-the-badge)
