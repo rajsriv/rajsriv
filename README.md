@@ -1,6 +1,6 @@
 <div align="center">
 
-# THE DIGITAL UNIVERSE OF RAJ SRIVASTAVA
+# DEV UNIVERSE OF RAJ SRIVASTAVA
 **Machine Learning Engineer | Full-Stack Architect | Linux Rice Enthusiast**
 
 <p align="center">
@@ -23,15 +23,16 @@
 ---
 
 ## 📊 Analytics & Impact
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajsriv&show_icons=true&theme=tokyonight&count_private=true" alt="Raj's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsriv&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
-</div>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rajsriv&show_icons=true&theme=tokyonight&count_private=true" alt="Raj's GitHub Stats" height="175px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsriv&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="175px" />
+</p>
 
-<div align="center">
+<br><br><br><br><br><br><br>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsriv&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
+</p>
 ---
 
 ## 🛠️ The Tech Arsenal
