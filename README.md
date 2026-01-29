@@ -1,65 +1,67 @@
 <div align="center">
-Hi there 👋
 
-# I’m Raj Srivastava
+# 🌌 THE DIGITAL UNIVERSE OF RAJ SRIVASTAVA
+**Machine Learning Engineer | Full-Stack Architect | Linux Rice Enthusiast**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast+%F0%9F%A4%96;DevOps+Engineer+%7C+Cloud+Architecture+Expert+%E2%98%81%EF%B8%8F;Building+Tomorrow's+Technology+Today+%F0%9F%9A%80;Open+Source+Contributor+%7C+Tech+Innovator+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast+%F0%9F%A4%96;Arch+Linux+%7C+Hyprland+Ricer+%EF%A3%BD;Building+Tomorrow's+Technology+Today+%F0%9F%9A%80;Open+Source+Contributor+%7C+Tech+Innovator+%E2%9C%A8" alt="Typing SVG" />
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-sriv2005/)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rajsriv.github.io/Portfolio-design-minimal/)
 
 </div>
 
-Machine Learning Engineer Intern @ BHU | Head Project Manager & Founder, The Debuggers Coding Club | CS Student @ I.Sc. BHU | Full-Stack Dev | Literature & Communication | Google Cloud & AWS Expert | CoLab Enthusiast
+---
+
+## ⚡ The Quick Flex
+* **Current Mission:** Final Year UG & Teaching Assistant (Web Design)
+* **AI/ML Research:** Engineering fairness and bias-mitigation in AI models.
+* **System Aesthetics:** Hardcore Arch Linux user. My `dotfiles` are a lifestyle, not a config.
+* **Founder:** The Debuggers Coding Club — fostering a culture of logic and creation.
 
 ---
 
-## Languages and methods i worked with:
-![KNN](https://img.shields.io/badge/KNN-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PCA](https://img.shields.io/badge/PCA-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Elbow Method](https://img.shields.io/badge/Elbow%20Method-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Silhouette Score](https://img.shields.io/badge/Silhouette%20Score-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Calinski–Harabasz Index](https://img.shields.io/badge/Calinski–Harabasz%20Index-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GridSearchCV](https://img.shields.io/badge/GridSearchCV-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SMOTE](https://img.shields.io/badge/SMOTE-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SMOTENC](https://img.shields.io/badge/SMOTENC-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Heatmap](https://img.shields.io/badge/Heatmap-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Microsoft ML Server](https://img.shields.io/badge/Microsoft%20ML%20Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Frontend](https://img.shields.io/badge/Frontend-HTML%2C%20CSS%2C%20JS-orange?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Development-blueviolet?style=for-the-badge)
+## 📊 Analytics & Impact
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&count_private=true" alt="Raj's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+</div>
 
-## Creative & Communication
-
-![Illustration](https://img.shields.io/badge/Illustration-FF69B4?style=for-the-badge)
-![Magazine Layout Design](https://img.shields.io/badge/Magazine%20Layout%20Design-9932CC?style=for-the-badge)
-![Literature & Communication](https://img.shields.io/badge/Literature%20%26%20Communication-FFB6C1?style=for-the-badge)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
-## A Few Fun Facts
+## 🛠️ The Tech Arsenal
 
-- I prefer building **unique** projects over clones or contribute to what exists.  
-- I care deeply about **clean structure** and **future maintainability**.  
-- I often write in a **dense, magazine-style** to express ideas beyond code.
+### 🧠 Machine Learning & Data Science
+> I don't just fit models; I architect decision-making engines.
+`Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` • `K-NN` • `Random Forest` • `PCA` • `SMOTE` • `GridSearchCV`
+
+### 🌐 Full Stack & Cloud
+> Bridging the gap between beautiful pixels and scalable logic.
+`Django (ORM)` • `Flask` • `React/JS` • `MySQL` • `AWS` • `Google Cloud` • `Docker`
+
+### 💻 System & Core
+> Low-level understanding for high-level performance.
+`C` • `C++` • `Python` • `Arch Linux` • `Hyprland` • `Git/GitHub`
 
 ---
 
-## 📬 Let’s Connect
+## 🎨 Beyond the Terminal
+I treat technical writing as an art form. My project documentation is often delivered in a **dense, magazine-style layout**, merging literature with logic. When I’m not debugging or ricing my window manager, I’m likely:
+* Writing **Hindi Poetry** that explores the intersection of human emotion and societal structures.
+* Analyzing **Chess** patterns (looking for that elusive "Brilliant Move" !!).
+* Deep-diving into **Literary Analysis** (From Tagore’s *Chaturanga* to Percival Everett).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-sriv2005/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rajsriv.github.io/Portfolio-design-minimal/)
+---
 
-⭐ *“Build what matters. Learn deeply. Leave something meaningful behind.”*
+## 📬 Initiate Connection
+* **Location:** Varanasi / Pune, India
+* **Philosophy:** *"Build what matters. Learn deeply. Leave something meaningful behind."*
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=00D9FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
