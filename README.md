@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 THE DIGITAL UNIVERSE OF RAJ SRIVASTAVA
+# THE DIGITAL UNIVERSE OF RAJ SRIVASTAVA
 **Machine Learning Engineer | Full-Stack Architect | Linux Rice Enthusiast**
 
 <p align="center">
@@ -15,21 +15,21 @@
 ---
 
 ## ⚡ The Quick Flex
-* **Current Mission:** Final Year UG & Teaching Assistant (Web Design)
+* **Current:** Final Year UG & Teaching Assistant
 * **AI/ML Research:** Engineering fairness and bias-mitigation in AI models.
-* **System Aesthetics:** Hardcore Arch Linux user. My `dotfiles` are a lifestyle, not a config.
-* **Founder:** The Debuggers Coding Club — fostering a culture of logic and creation.
+* **System Aesthetics:** I use ARCH btw. My `dotfiles` are a lifestyle, not a config.
+* **Founding Member:** The Debuggers Coding Club — fostering a culture of logic and creation.
 
 ---
 
 ## 📊 Analytics & Impact
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&count_private=true" alt="Raj's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajsriv&show_icons=true&theme=tokyonight&count_private=true" alt="Raj's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsriv&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsriv&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -45,7 +45,7 @@
 `Django (ORM)` • `Flask` • `React/JS` • `MySQL` • `AWS` • `Google Cloud` • `Docker`
 
 ### 💻 System & Core
-> Low-level understanding for high-level performance.
+> Understanding for high-level performance.
 `C` • `C++` • `Python` • `Arch Linux` • `Hyprland` • `Git/GitHub`
 
 ---
@@ -59,9 +59,9 @@ I treat technical writing as an art form. My project documentation is often deli
 ---
 
 ## 📬 Initiate Connection
-* **Location:** Varanasi / Pune, India
+* **Location:** Varanasi, India
 * **Philosophy:** *"Build what matters. Learn deeply. Leave something meaningful behind."*
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=00D9FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rajsriv&color=00D9FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
