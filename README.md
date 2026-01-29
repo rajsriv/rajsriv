@@ -1,7 +1,7 @@
 <div align="center">
 
-# DEV UNIVERSE OF RAJ SRIVASTAVA
-**Machine Learning Engineer | Full-Stack Architect | Linux Rice Enthusiast**
+# 🌌 THE DIGITAL UNIVERSE OF RAJ SRIVASTAVA
+**Machine Learning Engineer | Full-Stack Architect | Arch Linux Ricer**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast+%F0%9F%A4%96;Arch+Linux+%7C+Hyprland+Ricer+%EF%A3%BD;Building+Tomorrow's+Technology+Today+%F0%9F%9A%80;Open+Source+Contributor+%7C+Tech+Innovator+%E2%9C%A8" alt="Typing SVG" />
@@ -15,10 +15,10 @@
 ---
 
 ## ⚡ The Quick Flex
-* **Current:** Final Year UG & Teaching Assistant
+* **Current Mission:** Final Year UG & Teaching Assistant (Web Design)
 * **AI/ML Research:** Engineering fairness and bias-mitigation in AI models.
-* **System Aesthetics:** I use ARCH btw. My `dotfiles` are a lifestyle, not a config.
-* **Founding Member:** The Debuggers Coding Club — fostering a culture of logic and creation.
+* **System Aesthetics:** Hardcore Arch Linux user. My `dotfiles` are a lifestyle, not a config.
+* **Founder:** The Debuggers Coding Club — fostering a culture of logic and creation.
 
 ---
 
@@ -33,21 +33,37 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsriv&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 ---
 
-## 🛠️ The Tech Arsenal
+## 🛠️ Technical Arsenal
 
-### 🧠 Machine Learning & Data Science
-> I don't just fit models; I architect decision-making engines.
-`Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` • `K-NN` • `Random Forest` • `PCA` • `SMOTE` • `GridSearchCV`
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming** | `Python` • `C` • `C++` • `JavaScript` • `SQL` • `Bash` |
+| **Frontend** | `HTML5` • `CSS3` • `React.js` • `Tailwind CSS` • `Responsive Design` |
+| **Backend/Frameworks** | `Django (ORM)` • `Flask` • `Node.js` • `FastAPI` |
+| **AI & Machine Learning** | `Scikit-learn` • `Pandas` • `NumPy` • `TensorFlow` • `Keras` • `Matplotlib` |
+| **DevOps & Cloud** | `AWS (EC2, S3)` • `Google Cloud Platform` • `Docker` • `CI/CD Pipelines` |
+| **Databases** | `MySQL` • `PostgreSQL` • `SQLite` • `MongoDB` |
+| **Tools & Platforms** | `Git/GitHub` • `VS Code` • `Google Colab` • `Postman` • `Kaggle` |
 
-### 🌐 Full Stack & Cloud
-> Bridging the gap between beautiful pixels and scalable logic.
-`Django (ORM)` • `Flask` • `React/JS` • `MySQL` • `AWS` • `Google Cloud` • `Docker`
+---
 
-### 💻 System & Core
-> Understanding for high-level performance.
-`C` • `C++` • `Python` • `Arch Linux` • `Hyprland` • `Git/GitHub`
+## 🐧 OS & System Rice
+> **"I use Arch, btw."**
+* **Distribution:** `Arch Linux`
+* **Window Manager:** `Hyprland` (Wayland)
+* **Shell:** `Zsh` with custom `Caelestia` shell configuration
+* **Terminal:** `Kitty` / `Alacritty`
+* **Expertise:** Kernel optimization, custom scripts, and system-level performance tuning.
+
+---
+
+## 🧪 R&D Focus
+* **AI Ethics:** Investigating demographic parity and disparate impact in classification algorithms.
+* **Data Engineering:** Expert in `SMOTE`, `PCA`, and `GridSearchCV` for high-dimensional data handling.
+* **Operating Systems:** Deep understanding of Schedulers, Banker's Algorithm, and Memory Management.
 
 ---
 
@@ -60,7 +76,7 @@ I treat technical writing as an art form. My project documentation is often deli
 ---
 
 ## 📬 Initiate Connection
-* **Location:** Varanasi, India
+* **Location:** Varanasi / Pune, India
 * **Philosophy:** *"Build what matters. Learn deeply. Leave something meaningful behind."*
 
 <div align="center">
