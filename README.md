@@ -1,7 +1,7 @@
 <div align="center">
 Hi there 👋
 
-# Hi, I’m Raj Srivastava
+# I’m Raj Srivastava
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast+%F0%9F%A4%96;DevOps+Engineer+%7C+Cloud+Architecture+Expert+%E2%98%81%EF%B8%8F;Building+Tomorrow's+Technology+Today+%F0%9F%9A%80;Open+Source+Contributor+%7C+Tech+Innovator+%E2%9C%A8" alt="Typing SVG" />
