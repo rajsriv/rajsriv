@@ -14,7 +14,7 @@
 
 ---
 
-## ⚡ The Quick Flex
+## The Quick Flex
 * **Current Mission:** Final Year UG & Teaching Assistant (Web Design)
 * **AI/ML Research:** Engineering fairness and bias-mitigation in AI models.
 * **System Aesthetics:** Hardcore Arch Linux user. My `dotfiles` are a lifestyle, not a config.
@@ -22,7 +22,7 @@
 
 ---
 
-## 📊 Analytics & Impact
+## Analytics
 <div align="center">
   <a href="https://github.com/rajsriv">
   <picture>
@@ -40,7 +40,7 @@
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -54,7 +54,7 @@
 
 ---
 
-## 🐧 OS & System Rice
+## OS & System Rice
 > **"I use Arch, btw."**
 * **Distribution:** `Arch Linux`
 * **Window Manager:** `Hyprland` (Wayland)
@@ -64,14 +64,14 @@
 
 ---
 
-## 🧪 R&D Focus
+## R&D Focus
 * **AI Ethics:** Investigating demographic parity and disparate impact in classification algorithms.
 * **Data Engineering:** Expert in `SMOTE`, `PCA`, and `GridSearchCV` for high-dimensional data handling.
 * **Operating Systems:** Deep understanding of Schedulers, Banker's Algorithm, and Memory Management.
 
 ---
 
-## 🎨 Beyond the Terminal
+## Beyond the Terminal
 I treat technical writing as an art form. My project documentation is often delivered in a **dense, magazine-style layout**, merging literature with logic. When I’m not debugging or ricing my window manager, I’m likely:
 * Writing **Hindi Poetry** that explores the intersection of human emotion and societal structures.
 * Analyzing **Chess** patterns (looking for that elusive "Brilliant Move" !!).
@@ -79,7 +79,7 @@ I treat technical writing as an art form. My project documentation is often deli
 
 ---
 
-## 📬 Initiate Connection
+## Initiate Connection
 * **Location:** Varanasi / Pune, India
 * **Philosophy:** *"Build what matters. Learn deeply. Leave something meaningful behind."*
 
