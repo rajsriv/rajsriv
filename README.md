@@ -32,7 +32,20 @@
 </picture>
 </div>
 
-<br><br><br><br><br><br><br>
+<br><br><br>
+
+<details>
+  <summary>Latest Activity Graph</summary>
+  <samp>
+  <br/>
+  <h2 align="center"> latest contribution </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rajsriv&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<br/>
+  </samp>
+  </details>
+  
+<br><br><br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsriv&theme=tokyonight" alt="GitHub Streak" />
