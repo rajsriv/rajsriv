@@ -23,10 +23,14 @@
 ---
 
 ## 📊 Analytics & Impact
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rajsriv&show_icons=true&theme=tokyonight&count_private=true" alt="Raj's GitHub Stats" height="175px" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsriv&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="175px" />
-</p>
+<div align="center">
+  <a href="https://github.com/rajsriv">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajsriv/rajsriv/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajsriv/rajsriv/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rajsriv/rajsriv/refs/heads/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 <br><br><br><br><br><br><br>
 
