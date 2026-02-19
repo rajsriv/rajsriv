@@ -32,7 +32,7 @@
 </picture>
 </div>
 
-<br><br><br>
+<br>
 
 <details>
   <summary>Latest Activity Graph</summary>
@@ -45,7 +45,7 @@
   </samp>
   </details>
   
-<br><br><br>
+<br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsriv&theme=tokyonight" alt="GitHub Streak" />
