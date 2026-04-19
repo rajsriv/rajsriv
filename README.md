@@ -93,7 +93,7 @@ I treat technical writing as an art form. My project documentation is often deli
 ---
 
 ## Initiate Connection
-* **Location:** Varanasi / Pune, India
+* **Location:** India
 * **Philosophy:** *"Build what matters. Learn deeply. Leave something meaningful behind."*
 
 <div align="center">
