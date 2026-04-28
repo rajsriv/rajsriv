@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 THE DIGITAL UNIVERSE OF RAJ SRIVASTAVA
+# Hi! I am RAJ
 **Machine Learning Engineer | Full-Stack Architect | Arch Linux Ricer**
 
 <p align="center">
@@ -12,17 +12,48 @@
 
 </div>
 
+```bash
+⌘ ArchLinux@raj ➤ fastflex
+└── ⌘ ArchLinux@raj ➤
+
+                     -`                   ArchLinux@raj
+                    .o+`                  -----------------------------------
+                   `ooo/                  
+                  `+oooo:                 OS: Arch Linux x86_64
+                 `+oooooo:                Kernel: Linux (Optimized)
+                 -+oooooo+:               
+               `/:-:++oooo+:              WM: Hyprland (end-4 based)
+              `/++++/+++++++:             
+             `/++++++++++++++:            Shell: (quickshell, zsh) custom
+            `/+++ooooooooooooo/`          Terminal: Kitty / Alacritty
+           ./ooosssso++osssssso+`         
+          .oossssso-````/ossssss+`        Packages: 2005 (AUR)
+         -osssssso.      :ssssssso.       UI Lib: PyQt6 / Wayland
+        :osssssss/        osssso+++.      
+       /ossssssss/        +ssssooo/-      Memory: 32GB ML-Ready
+     `/ossssso+/:-        -:/+osssso+-    Bootloader: EFI | GRUB | BCD 
+    `+sso+:-`                 `.-/+oso:  
+   `++:.                           `-/+/
+   .`                                 `   ────────────────────────
+```
+
+---
+
+## Coding Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajsriv&theme=tokyonight&no-bg=true&margin-w=15&column=7" alt="trophies" />
+</div>
+
 ---
 
 ## The Quick Flex
-* **Current Mission:** Final Year UG & Teaching Assistant (Web Design)
-* **AI/ML Research:** Engineering fairness and bias-mitigation in AI models.
-* **System Aesthetics:** Hardcore Arch Linux user. My `dotfiles` are a lifestyle, not a config.
-* **Founder:** The Debuggers Coding Club — fostering a culture of logic and creation.
+* ** AI/ML Research:** Engineering fairness and bias-mitigation in AI models.
+* ** System Aesthetics:** Hardcore Arch Linux user.
+* ** Founder:** The Debuggers Coding Club — fostering a culture of logic and creation.
 
 ---
 
-## Analytics
+## Analytics & Activity
 <div align="center">
   <a href="https://github.com/rajsriv">
   <picture>
@@ -34,41 +65,48 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsriv&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
 <details>
-  <summary>Latest Activity Graph</summary>
+  <summary>📈 Detailed Activity Graph</summary>
   <samp>
   <br/>
-  <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rajsriv&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="rajsriv's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rajsriv&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" width="100%" /></a>
 <br/>
   </samp>
-  </details>
-  
-<br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsriv&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</details>
 
 ---
 
-## Technical Arsenal
+## 🛠️ Technical Arsenal
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Programming** | `Python` • `C` • `C++` • `JavaScript` • `SQL` • `Bash` |
-| **Frontend** | `HTML5` • `CSS3` • `React.js` • `Tailwind CSS` • `Responsive Design` |
-| **Backend/Frameworks** | `Django (ORM)` • `Flask` • `Node.js` • `FastAPI` |
-| **AI & Machine Learning** | `Scikit-learn` • `Pandas` • `NumPy` • `TensorFlow` • `Keras` • `Matplotlib` |
-| **DevOps & Cloud** | `AWS (EC2, S3)` • `Google Cloud Platform` • `Docker` • `CI/CD Pipelines` |
-| **Databases** | `MySQL` • `PostgreSQL` • `SQLite` • `MongoDB` |
-| **Tools & Platforms** | `Git/GitHub` • `VS Code` • `Google Colab` • `Postman` • `Kaggle` |
+| **Programming** | `Python` • `C/C++` • `JavaScript (ES6+)` • `Rust` • `Bash` |
+| **AI & Machine Learning** | `TensorFlow` • `Keras` • `Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` |
+| **MLOps & Data Eng** | `MLflow` • `DVC` • `PCA` • `SMOTE` • `GridSearchCV` • `Vector DBs` |
+| **GUI & Frontend** | **`PyQt6`** • `React.js` • `Next.js` • `Tailwind CSS` • `Zustand` |
+| **Backend & APIs** | `Django (ORM)` • `FastAPI` • `Node.js` • `Flask` • `REST APIs` |
+| **DevOps & Cloud** | `AWS (EC2, S3)` • `GCP` • `Docker` • `CI/CD Pipelines` • `Git/GitHub` |
+| **Databases** | `PostgreSQL` • `MySQL` • `MongoDB` • `SQLite` • `Redis` |
+| **System Tools** | **`EFI/BCD Repair`** • **`Initramfs`** • **`GRUB`** • `Postman` • `Kaggle` |
 
 ---
 
-## OS & System Rice
+## OS
 > **"I use Arch, btw."**
+
+<details>
+<summary>📸 View Current Desktop Setup (Rice)</summary>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajsriv/dotfiles/main/preview.png" alt="Hyprland Rice Preview" width="800px" style="border-radius: 10px;"/>
+</p>
+</details>
+
 * **Distribution:** `Arch Linux`
 * **Window Manager:** `Hyprland` (Wayland)
 * **Shell:** `Zsh` with custom `Caelestia` shell configuration
@@ -85,17 +123,13 @@
 ---
 
 ## Beyond the Terminal
-I treat technical writing as an art form. My project documentation is often delivered in a **dense, magazine-style layout**, merging literature with logic. When I’m not debugging or ricing my window manager, I’m likely:
-* Writing **Hindi Poetry** that explores the intersection of human emotion and societal structures.
-* Analyzing **Chess** patterns (looking for that elusive "Brilliant Move" !!).
-* Deep-diving into **Literary Analysis** (From Tagore’s *Chaturanga* to Percival Everett).
+I treat technical writing as an art form. My project documentation is often delivered in a **dense, magazine-style layout**, merging literature with logic. When I’m not debugging or ricing my window manager, I am likely touching Grass.
 
----
-
-## Initiate Connection
-* **Location:** India
-* **Philosophy:** *"Build what matters. Learn deeply. Leave something meaningful behind."*
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajsriv&color=00D9FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+```bash
+██████╗░██╗░░░██╗███████╗
+██╔══██╗╚██╗░██╔╝██╔════╝
+██████╦╝░╚████╔╝░█████╗░░
+██╔══██╗░░╚██╔╝░░██╔══╝░░
+██████╦╝░░░██║░░░███████╗
+╚═════╝░░░░╚═╝░░░╚══════╝
+```
