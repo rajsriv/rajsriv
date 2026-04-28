@@ -47,9 +47,9 @@
 ---
 
 ## The Quick Flex
-* ** AI/ML Research:** Engineering fairness and bias-mitigation in AI models.
-* ** System Aesthetics:** Hardcore Arch Linux user.
-* ** Founder:** The Debuggers Coding Club — fostering a culture of logic and creation.
+* AI/ML Research: Engineering fairness and bias-mitigation in AI models.
+* System Aesthetics: Hardcore Arch Linux user.
+* Founder: The Debuggers Coding Club — fostering a culture of logic and creation.
 
 ---
 
