@@ -15,7 +15,7 @@
 </div>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,rust,bash,linux,arch,tensorflow,sklearn,qt,react,nextjs,tailwind,html,css,js,django,fastapi,flask,nodejs,aws,gcp,docker,postgres,mysql,mongodb,sqlite,redis,git,github,postman,vscode" height="100"/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,rust,bash,linux,arch,tensorflow,sklearn,qt,react,nextjs,tailwind,html,css,js,django,fastapi,flask,nodejs,aws,gcp,docker,postgres,mysql,mongodb,sqlite,redis,git,github,postman,vscode"/>
   <br>
   <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy&logoColor=white" height="50"/>
