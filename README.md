@@ -3,31 +3,6 @@
 <div align="left">
   
 > **Raj uses Arch, btw.**
-  
-```bash
-⌘ ArchLinux@raj ➤ fastflex
-└── ⌘ ArchLinux@raj ➤
-
-                     -`                   ArchLinux@raj
-                    .o+`                  -------------------------------
-                   `ooo/                  
-                  `+oooo:                 Name: Raj Srivastava
-                 `+oooooo:                Work: Self-taught Developer and Researcher
-                 -+oooooo+:               
-               `/:-:++oooo+:              Focus: WebDev, System performance/optimization and AI
-              `/++++/+++++++:             
-             `/++++++++++++++:            Shell: Undergrad@BHU
-            `/+++ooooooooooooo/`          favTech: Machine Learning | Full-Stack Architect | Arch Linux Rice
-           ./ooosssso++osssssso+`         
-          .oossssso-````/ossssss+`        Packaged: 2006 (20yr)
-         -osssssso.      :ssssssso.       Job: CS STUDENTS ARE JOBLESS RN 
-        :osssssss/        osssso+++.      
-       /ossssssss/        +ssssooo/-      Memory: Gold Fish (volatile)
-     `/ossssso+/:-        -:/+osssso+-     
-    `+sso+:-`                 `.-/+oso:   Message: Love Yourself !
-   `++:.                           `-/+/
-   .`                                 `   ────────────────────────
-```
 
 <!--
 <p align="center">
